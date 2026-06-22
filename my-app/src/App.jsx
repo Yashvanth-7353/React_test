@@ -10,6 +10,7 @@ function App() {
         <div className="hero">
           <h2 className="hero-subtitle">⚡ Welcome to</h2>
           <h1 className="hero-title">My React Project</h1>
+           <h2 className="hero-subtitle">⚡ Deployed on Cloudops</h2>
           <p className="hero-text">
             Build modern web applications with React and Vite.
           </p>
